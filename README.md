@@ -1,4 +1,4 @@
 # React + Vite + Yarn
 
-yarn
-yarn dev
+yarn__
+yarn dev__
